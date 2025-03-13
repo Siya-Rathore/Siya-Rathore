@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently student at shgc bhopal.
 - 🌱 I’m currently learning HTML,CSS,Reactjs,Flask,Django, Bootstrap, javascript, jQuery.
+-  Passionate about coding, problem-solving, and building impactful projects.
+-  Currently improving my skills in web developer .
  <!--
 - 👯 I’m looking to collaborate n ...
 - 🤔 I’m looking for help with ...
